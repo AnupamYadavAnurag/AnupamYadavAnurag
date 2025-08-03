@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://anupamyadavanurag.github.io/](https://anupamyadavanurag.github.io/)
 
-- 📝 I regularly write articles on [https://anuragserver.blogspot.com](https://anuragserver.blogspot.com)
+- 📝 I regularly write articles on [anuragserver](https://anuragserver.blogspot.com)
 
 - 📫 How to reach me **anup888ya@gmail.com**
 
