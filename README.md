@@ -1,7 +1,6 @@
 # Anupam-Yadav-Anurag-<h1 align="center">Hi 👋, I'm Anupam Yadav</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400"src="<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/42eb8cd3-7239-488c-af58-d4fcf31fc703" />
-">
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/42eb8cd3-7239-488c-af58-d4fcf31fc703" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamyadavanurag&label=Profile%20views&color=0e75b6&style=flat" alt="anupamyadavanurag" /> </p>
 
