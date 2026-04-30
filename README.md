@@ -57,7 +57,7 @@
 
 ## 💼 Experience  
 
-### 🧑‍💻 Frontend Web Development Intern — Edunet Foundation  
+### 🧑‍💻 Frontend Web Development Intern — <a href = "https://edunetfoundation.org/">Edunet Foundation</a> 
 📍 Remote | 🗓️ Aug 2025 – Oct 2025  
 
 - Built responsive UI using **HTML, CSS, JavaScript**  
