@@ -1,34 +1,51 @@
 ![banner](https://github.com/AnupamYadavAnurag/Anupam-Yadav-Anurag-/blob/main/github-header-banner.png)
 
 <h1 align="center">Hi 👋, I'm Anupam Yadav (Anurag)</h1>
-<h3 align="center">🚀 Full Stack Developer in Progress | Problem Solver | Technical Writer</h3>
+<h3 align="center">🚀 Aspiring Full Stack Developer · DevOps · DSA Enthusiast · Learning AI & ML</h3>
 
-<img align="right" alt="coding" width="380" src="https://github.com/AnupamYadavAnurag/AnupamYadavAnurag/blob/main/bg_1.png" />
+<p align="center">
+  <a href="mailto:anup888ya@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/anupamyadavanurag">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/AnupamYadavAnurag">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://anupamyadavanurag.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/anuragyadavanupam">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://wa.me/6392688212">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
 
 ---
+
+<img align="right" alt="coding" width="350" src="https://github.com/AnupamYadavAnurag/AnupamYadavAnurag/blob/main/bg_1.png" />
 
 ## 🧾 About Me  
 
-- 💻 Passionate about building **real-world web applications**
-- 🌱 Currently learning **Full Stack Development (MERN + SQL)**
-- 🧠 Practicing **Data Structures & Algorithms daily**
-- ✍️ Writing technical blogs on **dev.to**
-- 🎯 Goal: Crack **product-based companies** & build impactful projects
+- 🎓 Computer Science student at **United University**  
+- 💻 Passionate about **Full Stack Development & AI/ML**  
+- 🧠 Practicing **Data Structures & Algorithms daily**  
+- ⚡ Love building **real-world projects from scratch**  
+- 🎯 Goal: Become a **skilled software engineer in a top tech company**  
 
-> *I learn in public, build with purpose, and write to grow.*
+> *I focus on building, learning, and improving every single day.*
 
 ---
 
-## 🔗 Connect With Me  
+## 🚀 What I'm Currently Doing  
 
-<p align="left">
-<a href="mailto:anuragyadavanupam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://linkedin.com/in/anupamyadavanurag"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/AnupamYadavAnurag"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://dev.to/anupamyadavanurag"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
-<a href="https://instagram.com/anuragyadavanupam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://wa.me/6392688212"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</p>
+- 🔭 Working on **Full Stack Projects (MERN + APIs)**  
+- 🧠 Strengthening **DSA & problem-solving skills**  
+- ⚡ Exploring **AI + Web integration concepts**  
+- 🎯 Preparing for **internships & coding interviews**  
 
 ---
 
@@ -37,95 +54,112 @@
 ### 🧑‍💻 Frontend Web Development Intern — Edunet Foundation  
 📍 Remote | 🗓️ Aug 2025 – Oct 2025  
 
-- Built responsive UI using **HTML, CSS, JavaScript**
-- Completed real-world project independently  
-- Learned **modern frontend practices & design thinking**
+- Built responsive UI using **HTML, CSS, JavaScript**  
+- Developed a real-world project independently  
+- Applied **problem-solving & debugging skills**  
+- Learned modern frontend development practices  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Technical Skills  
 
 ### 💻 Languages  
-<p>
-<img src="https://skillicons.dev/icons?i=js,cpp,html,css,sqlite" />
-</p>
+| JavaScript | Java Python| HTML5 | CSS3 | SQL |
+|:-----------:|:---:|:-----:|:----:|:---:|
+| <img src="https://skillicons.dev/icons?i=js" width="45" /> | <img src="https://skillicons.dev/icons?i=java" width="45" /> | <img src="https://skillicons.dev/icons?i=python" width="45" /> | <img src="https://skillicons.dev/icons?i=html" width="45" /> | c| <img src="https://skillicons.dev/icons?i=sqlite" width="45" /> |
 
 ### ⚙️ Frameworks & Libraries  
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,bootstrap,tailwind" />
-</p>
+| Node.js | Express | React | Bootstrap | Tailwind CSS |
+|:--------:|:--------:|:------:|:-----------:|:--------------:|
+| <img src="https://skillicons.dev/icons?i=nodejs" width="45" /> | <img src="https://skillicons.dev/icons?i=express" width="45" /> | <img src="https://skillicons.dev/icons?i=react" width="45" /> | <img src="https://skillicons.dev/icons?i=bootstrap" width="45" /> | <img src="https://skillicons.dev/icons?i=tailwind" width="45" /> |
 
 ### 🗄️ Databases  
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
-</p>
+| MongoDB | MySQL | PostgreSQL |
+|:--------:|:------:|:-----------:|
+| <img src="https://skillicons.dev/icons?i=mongodb" width="45" /> | <img src="https://skillicons.dev/icons?i=mysql" width="45" /> | <img src="https://skillicons.dev/icons?i=postgres" width="45" /> |
 
-### 🧰 Tools  
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
-</p>
+### 🧰 Tools & Platforms  
+| Git | GitHub | VS Code | WebRTC | Linux |
+|:---:|:-------:|:--------:|:---------:|:-------:|
+| <img src="https://skillicons.dev/icons?i=git" width="45" /> | <img src="https://skillicons.dev/icons?i=github" width="45" /> | <img src="https://skillicons.dev/icons?i=vscode" width="45" /> | <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=linux" width="45" /> |
 
 ---
 
 ## ⚔️ DSA Journey  
 
-- 🧠 Solving problems daily on **LeetCode & GeeksforGeeks**
-- ⚡ Focus on **logic building & optimization**
-- 🎯 Preparing for **coding interviews**
+<table>
+<tr>
+<td width="55%" align="left">
+
+- Solving **DSA problems daily**  
+- Practicing on **LeetCode & GeeksforGeeks**  
+- Improving **logic building & optimization**  
+- Focused on **coding interviews preparation**  
+
+<br/>
 
 <p align="center">
-<a href="https://leetcode.com/u/anupamyadavanurag/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-<a href="https://auth.geeksforgeeks.org/user/anuragyadavanupam">
-<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+  <a href="https://leetcode.com/u/anupamyadavanurag/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/anuragyadavanupam">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
+
+</td>
+
+<td width="45%" align="center">
+
+<img src="https://leetcard.jacoblin.cool/anupamyadavanurag?theme=radical&ext=heatmap" width="95%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📂 Projects  
 
-| 🚀 Project | 💻 Tech | 🔗 Links |
-|-----------|--------|--------|
-| Weather Dashboard | HTML, CSS, JS, API | [GitHub](https://github.com/prabhanshtiwari/Dynamic-Weather-Dashboard) |
-| Portfolio Website | HTML, CSS, Tailwind | [Live](https://prabhanshtiwari.netlify.app/) |
-| Quiz Game | HTML, CSS, JS | [GitHub](https://github.com/prabhanshtiwari/quiz-game) |
+<div align="center">
+
+| 🚀 Project | 💻 Tech Stack | 🔗 Links |
+|-----------|-------------|--------|
+| Smart Study Planner | HTML, CSS, JS | <a href="https://anupamyadavanurag.github.io/Smart-Study-Planner/">Live</a> |
+| Portfolio Website | HTML, CSS, Tailwind | <a href="https://anupamyadavanurag.github.io">Live</a> |
+| Virtual Calculator | Python, OpenCV | <a href="https://github.com/AnupamYadavAnurag/Virtual_Calculator/blob/main/venv/main.py">GitHub</a> |
+| Virtual Calculator | Python, OpenCV | <a href = "https://anupamyadavanurag.github.io/Headphone-website/">Love</a>
+</div>
 
 ---
 
 ## 📊 GitHub Stats  
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AnupamYadavAnurag&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamYadavAnurag&layout=compact&theme=tokyonight"/>
-</p>
+<div align="center">
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=AnupamYadavAnurag&theme=tokyonight"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=AnupamYadavAnurag&show_icons=true&theme=tokyonight&hide_border=true" height="170em" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamYadavAnurag&layout=compact&theme=tokyonight&hide_border=true" height="170em" />
 
----
+<br/>
 
-## 📈 Contribution Graph  
+<img src="https://streak-stats.demolab.com?user=AnupamYadavAnurag&theme=tokyonight&hide_border=true" height="170em" />
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnupamYadavAnurag&theme=tokyo-night"/>
-</p>
+</div>
 
 ---
 
-## 🧠 Fun Fact  
+## 🏆 Highlights  
 
-⚡ *I turn coffee ☕ into code and bugs into learning.*
+- 🚀 Participated in Hackathons (HackDiwas 3.0)  
+- 🎯 Consistent DSA practice  
+- 💡 Built multiple real-world projects  
+- 📈 Continuously improving development skills  
 
 ---
 
 ## 📩 Open for Opportunities  
 
-- 💼 Internships  
-- 💻 Freelance Projects  
-- 🚀 Full-time Roles  
+💼 Internships | Freelance | Tech Jobs
 
 📧 **anup888ya@gmail.com**
 
@@ -133,6 +167,6 @@
 
 <div align="center">
 
-⭐ *If you like my work, consider giving a star!*  
+⭐ *If you find my work interesting, consider giving a star!*  
 
 </div>
