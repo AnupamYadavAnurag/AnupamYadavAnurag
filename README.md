@@ -128,7 +128,7 @@
 | Smart Study Planner | HTML, CSS, JS | <a href="https://anupamyadavanurag.github.io/Smart-Study-Planner/">Live</a> |
 | Portfolio Website | HTML, CSS, Tailwind | <a href="https://anupamyadavanurag.github.io">Live</a> |
 | Virtual Calculator | Python, OpenCV | <a href="https://github.com/AnupamYadavAnurag/Virtual_Calculator/blob/main/venv/main.py">GitHub</a> |
-| Virtual Calculator | Python, OpenCV | <a href = "https://anupamyadavanurag.github.io/Headphone-website/">Love</a>
+| Headphone Website | HTML, CSS, JavaSript| <a href = "https://anupamyadavanurag.github.io/Headphone-website/">Live</a>
 </div>
 
 ---
@@ -145,7 +145,13 @@
 <img src="https://streak-stats.demolab.com?user=AnupamYadavAnurag&theme=tokyonight&hide_border=true" height="170em" />
 
 </div>
+---
 
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnupamYadavAnurag&bg_color=0d1117&color=7F3FBF&line=7F3FBF&point=ffffff&area=true&hide_border=true" width="95%" />
+</p>
 ---
 
 ## 🏆 Highlights  
