@@ -61,7 +61,6 @@
 📍 Remote | 🗓️ Aug 2025 – Oct 2025  
 
 - Built responsive UI using **HTML, CSS, JavaScript**  
-- Developed a real-world project independently  
 - Applied **problem-solving & debugging skills**  
 - Learned modern frontend development practices  
 
