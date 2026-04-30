@@ -1,40 +1,138 @@
-![logo](https://github.com/AnupamYadavAnurag/Anupam-Yadav-Anurag-/blob/main/github-header-banner.png)
-# Anupam-Yadav-Anurag<h1 align="center">Hi 👋, I'm Anupam Yadav</h1>
-<h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/AnupamYadavAnurag/AnupamYadavAnurag/blob/main/bg_1.png" />
+![banner](https://github.com/AnupamYadavAnurag/Anupam-Yadav-Anurag-/blob/main/github-header-banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamyadavanurag&label=Profile%20views&color=0e75b6&style=flat" alt="anupamyadavanurag" /> </p>
+<h1 align="center">Hi 👋, I'm Anupam Yadav (Anurag)</h1>
+<h3 align="center">🚀 Full Stack Developer in Progress | Problem Solver | Technical Writer</h3>
 
-<p align="left"> <a href="https://twitter.com/anuragyadav2215" target="blank"><img src="https://img.shields.io/twitter/follow/anuragyadav2215?logo=twitter&style=for-the-badge" alt="anuragyadav2215" /></a> </p>
+<img align="right" alt="coding" width="380" src="https://github.com/AnupamYadavAnurag/AnupamYadavAnurag/blob/main/bg_1.png" />
 
-- 🌱 I’m currently learning **Full Stack Development**
+---
 
-- 👨‍💻 All of my projects are available at [https://anupamyadavanurag.github.io/](https://anupamyadavanurag.github.io/)
+## 🧾 About Me  
 
-- 📝 I regularly write articles on [anuragserver](https://anuragserver.blogspot.com)
+- 💻 Passionate about building **real-world web applications**
+- 🌱 Currently learning **Full Stack Development (MERN + SQL)**
+- 🧠 Practicing **Data Structures & Algorithms daily**
+- ✍️ Writing technical blogs on **dev.to**
+- 🎯 Goal: Crack **product-based companies** & build impactful projects
 
-- 📫 How to reach me **anup888ya@gmail.com**
+> *I learn in public, build with purpose, and write to grow.*
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Xbof3WcjmR62cEi3FKQMRCtGS8KO9rAg/view](https://drive.google.com/file/d/1Xbof3WcjmR62cEi3FKQMRCtGS8KO9rAg/view)
+---
 
-- ⚡ Fun fact **I am funny 😁**
+## 🔗 Connect With Me  
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/anuragyadav2215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuragyadav2215" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anupamyadavanurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anupamyadavanurag" height="30" width="40" /></a>
-<a href="https://fb.com/anupam.yadavanurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anupam.yadavanurag" height="30" width="40" /></a>
-<a href="https://instagram.com/anupamyadavanurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anupamyadavanurag" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/anuragyadavanup1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="anuragyadavanup1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anupamyadavanurag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anupamyadavanurag" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anuragyadavanupam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anuragyadavanupam" height="30" width="40" /></a>
+<a href="mailto:anuragyadavanupam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/anupamyadavanurag"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/AnupamYadavAnurag"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://dev.to/anupamyadavanurag"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
+<a href="https://instagram.com/anuragyadavanupam"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://wa.me/6392688212"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupamyadavanurag&show_icons=true&locale=en&layout=compact" alt="anupamyadavanurag" /></p>
+## 💼 Experience  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anupamyadavanurag&show_icons=true&locale=en" alt="anupamyadavanurag" /></p>
+### 🧑‍💻 Frontend Web Development Intern — Edunet Foundation  
+📍 Remote | 🗓️ Aug 2025 – Oct 2025  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupamyadavanurag&" alt="anupamyadavanurag" /></p>
+- Built responsive UI using **HTML, CSS, JavaScript**
+- Completed real-world project independently  
+- Learned **modern frontend practices & design thinking**
+
+---
+
+## 🛠️ Tech Stack  
+
+### 💻 Languages  
+<p>
+<img src="https://skillicons.dev/icons?i=js,cpp,html,css,sqlite" />
+</p>
+
+### ⚙️ Frameworks & Libraries  
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,bootstrap,tailwind" />
+</p>
+
+### 🗄️ Databases  
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### 🧰 Tools  
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
+
+---
+
+## ⚔️ DSA Journey  
+
+- 🧠 Solving problems daily on **LeetCode & GeeksforGeeks**
+- ⚡ Focus on **logic building & optimization**
+- 🎯 Preparing for **coding interviews**
+
+<p align="center">
+<a href="https://leetcode.com/u/anupamyadavanurag/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+<a href="https://auth.geeksforgeeks.org/user/anuragyadavanupam">
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 📂 Projects  
+
+| 🚀 Project | 💻 Tech | 🔗 Links |
+|-----------|--------|--------|
+| Weather Dashboard | HTML, CSS, JS, API | [GitHub](https://github.com/prabhanshtiwari/Dynamic-Weather-Dashboard) |
+| Portfolio Website | HTML, CSS, Tailwind | [Live](https://prabhanshtiwari.netlify.app/) |
+| Quiz Game | HTML, CSS, JS | [GitHub](https://github.com/prabhanshtiwari/quiz-game) |
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AnupamYadavAnurag&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnupamYadavAnurag&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=AnupamYadavAnurag&theme=tokyonight"/>
+</p>
+
+---
+
+## 📈 Contribution Graph  
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnupamYadavAnurag&theme=tokyo-night"/>
+</p>
+
+---
+
+## 🧠 Fun Fact  
+
+⚡ *I turn coffee ☕ into code and bugs into learning.*
+
+---
+
+## 📩 Open for Opportunities  
+
+- 💼 Internships  
+- 💻 Freelance Projects  
+- 🚀 Full-time Roles  
+
+📧 **anup888ya@gmail.com**
+
+---
+
+<div align="center">
+
+⭐ *If you like my work, consider giving a star!*  
+
+</div>
