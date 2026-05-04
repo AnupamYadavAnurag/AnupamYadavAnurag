@@ -71,7 +71,7 @@
 ### 💻 Languages  
 | JavaScript | Java | Python | HTML5 | CSS3 | SQL |
 |:----------:|:----:|:------:|:-----:|:----:|:---:|
-| <img src="https://skillicons.dev/icons?i=js" width="45" /> | <img src="https://skillicons.dev/icons?i=java" width="45" /> | <img src="https://skillicons.dev/icons?i=python" width="45" /> | <img src="https://skillicons.dev/icons?i=html" width="45" /> | <img src="https://skillicons.dev/icons?i=css" width="45" /> | <img src="https://skillicons.dev/icons?i=mysql" width="45" /> |
+| <img src="https://skillicons.dev/icons?i=js" width="45" /> | <img src="https://skillicons.dev/icons?i=java" width="45" /> | <img src="https://skillicons.dev/icons?i=python" width="45" /> | <img src="https://skillicons.dev/icons?i=html" width="45" /> | <img src="https://skillicons.dev/icons?i=css" width="45" /> | <img src="https://skillicons.dev/icons?i=sqlite" width="45" /> |
 
 ### ⚙️ Frameworks & Libraries  
 | Node.js | Express | React | Bootstrap | Tailwind CSS |
