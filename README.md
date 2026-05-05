@@ -129,6 +129,7 @@
 
 | 🚀 Project | 💻 Tech Stack | 🔗 Links |
 |-----------|-------------|--------|
+| Skills SwapAI | React.js, TailwindCSS, Node.js, WebRTC, OpenAI, N8N | <a href="https://github.com/AnupamYadavAnurag/SkillSwapAI">GitHub</a> |
 | Smart Study Planner | HTML, CSS, JS | <a href="https://anupamyadavanurag.github.io/Smart-Study-Planner/">Live</a> |
 | Portfolio Website | HTML, CSS, Tailwind | <a href="https://anupamyadavanurag.github.io">Live</a> |
 | Virtual Calculator | Python, OpenCV | <a href="https://github.com/AnupamYadavAnurag/Virtual_Calculator/blob/main/venv/main.py">GitHub</a> |
