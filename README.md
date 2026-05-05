@@ -63,7 +63,9 @@
 - Built responsive UI using **HTML, CSS, JavaScript**  
 - Applied **problem-solving & debugging skills**  
 - Learned modern frontend development practices 
-- [![AICTE Certificate](https://img.shields.io/badge/AICTE-Certificate-blue?style=for-the-badge)](https://anupamyadavanurag.github.io/Certificate/AICTE_B3_PD.jpg)
+- [![Certificate](https://img.shields.io/badge/AICTE-Certificate-blue?style=for-the-badge)](https://anupamyadavanurag.github.io/Certificate/AICTE_B3_PD.jpg)
+- [![AICTE Certificate](https://img.shields.io/badge/AICTE-Certificate-ff69b4?style=for-the-badge&logo=graduation-cap)](https://anupamyadavanurag.github.io/Certificate/AICTE_B3_PD.jpg)
+- [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge&logo=google-drive)](https://anupamyadavanurag.github.io/Certificate/AICTE_B3_PD.jpg)
 ---
 
 ## 🛠️ Technical Skills  
