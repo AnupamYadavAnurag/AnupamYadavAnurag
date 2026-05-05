@@ -62,8 +62,8 @@
 
 - Built responsive UI using **HTML, CSS, JavaScript**  
 - Applied **problem-solving & debugging skills**  
-- Learned modern frontend development practices  
-
+- Learned modern frontend development practices 
+- [![AICTE Certificate](https://img.shields.io/badge/AICTE-Certificate-blue?style=for-the-badge)](https://anupamyadavanurag.github.io/Certificate/AICTE_B3_PD.jpg)
 ---
 
 ## 🛠️ Technical Skills  
@@ -84,7 +84,7 @@
 | <img src="https://skillicons.dev/icons?i=mongodb" width="45" /> | <img src="https://skillicons.dev/icons?i=mysql" width="45" /> | <img src="https://skillicons.dev/icons?i=postgres" width="45" /> |
 
 ### 🧰 Tools & Platforms  
-| Git | GitHub | VS Code | WebRTC | Linux |
+| Git | GitHub | VS Code | WebRTC | Linux | 
 |:---:|:-------:|:--------:|:---------:|:-------:|
 | <img src="https://skillicons.dev/icons?i=git" width="45" /> | <img src="https://skillicons.dev/icons?i=github" width="45" /> | <img src="https://skillicons.dev/icons?i=vscode" width="45" /> | <img src="https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=linux" width="45" /> |
 
