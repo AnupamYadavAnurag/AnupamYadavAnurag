@@ -58,8 +58,7 @@
 ## 💼 Experience  
 
 ### 🧑‍💻 Frontend Web Development Intern — <a href = "https://edunetfoundation.org/">Edunet Foundation</a> 
-[![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge&logo=google-drive)](https://anupamyadavanurag.github.io/Certificate/AICTE_B3_PD.jpg)
-📍 Remote | 🗓️ Aug 2025 – Oct 2025  
+📍 Remote | 🗓️ Aug 2025 – Oct 2025  [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge&logo=google-drive)](https://anupamyadavanurag.github.io/Certificate/AICTE_B3_PD.jpg)
 
 - Built responsive UI using **HTML, CSS, JavaScript**  
 - Applied **problem-solving & debugging skills**  
