@@ -1,6 +1,6 @@
 ![banner](https://github.com/AnupamYadavAnurag/Anupam-Yadav-Anurag-/blob/main/github-header-banner.png)
 
-<h1 align="center">Hi 👋, I'm Anupam Yadav (Anurag)</h1>
+<h1 align="center">Hi , I'm Anupam Yadav (Anurag)</h1>
 <h3 align="center">🚀 Aspiring Full Stack Developer · DevOps · DSA Enthusiast · Learning AI & ML</h3>
 
 <p align="center">
