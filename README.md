@@ -160,6 +160,6 @@
 
 <div align="center">
 
-⭐ *If you find my work interesting, consider giving a star!*  
+//⭐ *If you find my work interesting, consider giving a star!*  
 
 </div>
