@@ -121,7 +121,7 @@
 </tr>
 </table>
 
----
+
 
 ## 📂 Projects  
 
@@ -136,7 +136,7 @@
 | Headphone Website | HTML, CSS, JavaSript| <a href = "https://anupamyadavanurag.github.io/Headphone-website/">Live</a>
 </div>
 
----
+
 
 ## 📊 GitHub Stats  
 
@@ -150,14 +150,14 @@
 <img src="https://streak-stats.demolab.com?user=AnupamYadavAnurag&theme=tokyonight&hide_border=true" height="170em" />
 
 </div>
----
+
 
 ## 📈 Contribution Graph  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnupamYadavAnurag&bg_color=0d1117&color=7F3FBF&line=7F3FBF&point=ffffff&area=true&hide_border=true" width="95%" />
 </p>
----
+
 
 <div align="center">
 
