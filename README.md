@@ -60,7 +60,7 @@
 ### 🧑‍💻 Frontend Web Development Intern — <a href = "https://edunetfoundation.org/">Edunet Foundation & IBM Skillbuild</a> 
 📍 Remote | 🗓️ Aug 2025 – Oct 2025  [![View Certificate](https://img.shields.io/badge/View-Certificate-blue?style=for-the-badge&logo=google-drive)](https://drive.google.com/drive/folders/1DtPF7ttf_qI1RcPWleOs5JwEQ8LVzM1n)
 
-- Built responsive UI using **HTML, CSS, JavaScript**  
+- Built responsive UI using **HTML, CSS, JavaScript React**  
 - Applied **problem-solving & debugging skills**   
 - Learned modern frontend development practices
 ---
