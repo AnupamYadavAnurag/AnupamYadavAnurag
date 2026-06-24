@@ -133,7 +133,8 @@
 | Smart Study Planner | HTML, CSS, JS | <a href="https://anupamyadavanurag.github.io/Smart-Study-Planner/">Live</a> |
 | Portfolio Website | HTML, CSS, Tailwind | <a href="https://anupamyadavanurag.github.io">Live</a> |
 | Virtual Calculator | Python, OpenCV | <a href="https://github.com/AnupamYadavAnurag/Virtual_Calculator/blob/main/venv/main.py">GitHub</a> |
-| Headphone Website | HTML, CSS, JavaSript| <a href = "https://anupamyadavanurag.github.io/Headphone-website/">Live</a>
+| Headphone Website | HTML, CSS, JavaSript| <a href = "https://anupamyadavanurag.github.io/Headphone-website/">Live</a> |
+| Studynox | HTML, CSS, JavaSript| <a href = "https://anupamyadavanurag.github.io/Studynox/">Live</a>
 </div>
 
 
